@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    }
+
+
+.container{width: 1000px;
+margin-right: auto;
+margin-left: auto;
+
+
+
+}
+
+    .leftbar{width: 200px;
+   float: left;
+    }
+
+    .content{width: 200px;
+    float: left;
+  
+
+    }
+
+    .card{width: 23%;
+    float: left;
+    padding: 5%;
+    margin-right: 2%;
+    
+    }   
+
+
+.kutu1{
+width: 400px;
+height: 80px;
+padding: 20px;
+margin: 3px;
+float: left;
+
+}
+
+
+.bg-green{background-color: rgb 126, 229, 218;}
+.bg-grey{background-color: grey;}
+.bg-blue{background-color: cadetblue;}
+
