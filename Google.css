@@ -12,8 +12,17 @@ body{
     margin-bottom: 2px;
     margin-left: auto;
     margin-right: auto;
+    text-align: -webkit-center;
+}
 
-   
+.main-container {
+    vertical-align: inherit;
+    width: 90%;
+    border-width: 2px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: -webkit-center;
 }
 
 .container1{
@@ -42,9 +51,15 @@ body{
 
     }
 
+.image-container {
+    text-align: -webkit-center;
+}
+
 .text{
-    font-size: -1;
+    /* font-size: -1;
     float:right;
-    margin-top: 10px;
+    margin-top: 10px; */
+    display: block;
+    text-align: -webkit-center;
 }
 
