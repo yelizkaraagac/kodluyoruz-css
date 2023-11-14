@@ -1,47 +1,50 @@
 body{
-    padding: 0;
-    margin: 0;
-    background-color: #ffffff;
-    }
-
-
-.container{width: 1000px;
-margin-right: auto;
-margin-left: auto;
-
-
-
-}
-
-    .leftbar{width: 200px;
-   float: left;
-    }
-
-    .content{width: 200px;
-    float: left;
+    background-color: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 5px;
   
+}
+.gricontainer{
+    background-color: #EEEEEE;
+    width: 90%;
+    border-width: 2px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+}
+
+.container1{
+    background-color: #7EE5DA;
+    width: 35%;
+    float: left;
+    margin-right: 2px;
+    margin-left: auto;
+  
+}
+.container2{
+    background-color: #70CCC2;
+    width: 14%;
+    font-size: -1px;
+    float: left;
+    margin-right: 2px;
+    margin-left: auto;
+}
+.container3{
+    background-color: #62B3AA;
+    width: 35%;
+    font-size: -1;
+    float: left;
+    margin-right: 2px;
+    margin-left: auto;
 
     }
 
-    .card{width: 23%;
-    float: left;
-    padding: 5%;
-    margin-right: 2%;
-    
-    }   
-
-
-.kutu1{
-width: 400px;
-height: 80px;
-padding: 20px;
-margin: 3px;
-float: left;
-
+.text{
+    font-size: -1;
+    float:right;
+    margin-top: 10px;
 }
-
-
-.bg-green{background-color: rgb 126, 229, 218;}
-.bg-grey{background-color: grey;}
-.bg-blue{background-color: cadetblue;}
 
